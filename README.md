@@ -21,10 +21,10 @@ Diferente de sistemas mais robustos e complexos, este projeto utiliza a arquitet
 
 Para entender a base científica e técnica deste desenvolvimento, acesse os documentos abaixo:
 
-* 📊 [Contexto e Mercado (Hortaliças no DF)](https://www.google.com/search?q=docs/contexto.md) – Levantamento das principais culturas e dados econômicos.
-* 📄 [Escopo do Projeto](https://www.google.com/search?q=docs/escopo.md) – Objetivos, delimitação técnica e metas de entrega.
-* ☑️ [Requisitos do Sistema](https://www.google.com/search?q=docs/requisitos.md) – Definição de funcionalidades (RF) e critérios de qualidade (RNF).
-* 👨‍💻 [Stack Tecnológica](https://www.google.com/search?q=docs/stack.md) – Tecnologias utilizadas e alinhadas às principais necessidades do projeto.
+* 📊 [Contexto e Mercado (Hortaliças no DF)](docs/contexto.md) – Levantamento das principais culturas e dados econômicos.
+* 📄 [Escopo do Projeto](docs/escopo.md) – Objetivos, delimitação técnica e metas de entrega.
+* ☑️ [Requisitos do Sistema](docs/requisitos.md) – Definição de funcionalidades (RF) e critérios de qualidade (RNF).
+* 👨‍💻 [Stack Tecnológica](docs/stack.md) – Tecnologias utilizadas e alinhadas às principais necessidades do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
