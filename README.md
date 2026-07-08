@@ -40,7 +40,7 @@ Com foco em performance e compatibilidade com dispositivos móveis (*Mobile-Firs
 
 Você pode acessar a página inicial do projeto por meio do link abaixo (você será redirecionado para a página oficial no GitHub Pages):
 
-* [Acessar Site]() – Site Oficial do Projeto
+* [Acessar Site](https://gabrielsf2005.github.io/guia-verde/) – Site Oficial do Projeto
 
 ---
 
