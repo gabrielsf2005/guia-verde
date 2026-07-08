@@ -1,5 +1,3 @@
-Aqui está o texto revisado. Mantive exatamente a estrutura, os links e o tom original, mas ajustei a ortografia, a pontuação, a coesão e a concordância (especialmente no bloco de observação) para dar um tom mais profissional e fluido ao seu README.
-
 ---
 
 # 🌿 Catálogo de Classificação de Doenças e Pragas em Hortaliças
