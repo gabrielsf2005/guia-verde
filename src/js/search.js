@@ -152,7 +152,7 @@
             cor: "warning",
             keywords: ["manejo", "rotação", "rotacao", "plantio", "prevenção", "prevencao",
                        "controle integrado", "boas práticas", "boas praticas", "produção",
-                       "producao", "ciclo", "poda", "colheita", "espaldeira"]
+                       "producao", "ciclo", "poda", "colheita", "espaldeira", "veneno", "fertilizante", "adubo", "defensivo", "agrotóxico", "agrotoxico", "manejo integrado", "manejo biologico", "manejo biológico"]
         },
         {
             titulo: "Guia de Pragas",
@@ -162,7 +162,7 @@
             icone: "bi-bug",
             cor: "danger",
             keywords: ["pragas", "inseto", "ácaro", "acaro", "lagarta", "mosca", "pulgão",
-                       "pulgao", "trips", "broca", "controle", "armadilha", "monitoramento", "praga"]
+                       "pulgao", "trips", "broca", "controle", "armadilha", "monitoramento", "praga", "veneno", "defensivo", "agrotóxico", "agrotoxico", "controle biológico", "controle biologico", "controle integrado"]
         },
         {
             titulo: "Guia de Nutrição",
@@ -174,7 +174,7 @@
             keywords: ["nutrição", "nutricao", "adubo", "fertilizante", "npk", "nitrogênio",
                        "nitrogenio", "fósforo", "fosforo", "potássio", "potassio", "clorose",
                        "amarelamento", "deficiência", "deficiencia", "micronutriente",
-                       "calcário", "calcario", "solo"]
+                       "calcário", "calcario", "solo", "veneno", "defensivo", "agrotóxico", "agrotoxico", "nutrientes", "nutriente", "nutricao de plantas", "nutrição de plantas"]
         },
         {
             titulo: "Guia de Plantas Invasoras",
@@ -184,7 +184,7 @@
             icone: "bi-scissors",
             cor: "secondary",
             keywords: ["daninhas", "invasoras", "mato", "erva daninha", "competição",
-                       "competicao", "herbicida", "capina", "folha larga", "folha estreita"]
+                       "competicao", "herbicida", "capina", "folha larga", "folha estreita", "veneno", "defensivo", "agrotóxico", "agrotoxico", "plantas invasoras", "plantas invasoras", "plantas daninhas", "plantas daninhas"]
         },
         {
             titulo: "Guia Climático",
